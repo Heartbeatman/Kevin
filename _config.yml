@@ -1,3 +1,46 @@
-title: Kevin Dejbod
-description: "Portfolio of Kevin Dejbod"
+title: Kevin Dejbod's Portfolio
+description: "Welcome to the professional portfolio of Kevin Dejbod, a dedicated A.I. and Biomedical Engineer specializing in Machine Learning, Algorithm Design, and Biomedical Engineering Solutions."
+
+# Base URL
+baseurl: "" # Consider adding a base URL if your site is not hosted at the root.
+
+# Theme Configuration
 theme: jekyll-theme-minimal
+
+# Add Google Analytics tracking if you have it
+# google_analytics: UA-XXXXX-Y
+
+# Social Media Links (Uncomment and update with your information)
+social_links:
+  linkedin: kevin-dejbod
+  github: Heartbeatman
+  email: kevin.dejbod1@gmail.com
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Exclude from build
+exclude:
+  - README.md
+  - LICENSE.txt
+  - CNAME
+
+# Optional: Add any additional Jekyll plugins here
+#   - jekyll-seo-tag
+#   - jekyll-sitemap
+
+# Enabling comments (using Disqus, for example)
+# comments:
+#   provider: disqus
+#   disqus:
+#     shortname: your-disqus-shortname
+
+# Navigation Settings (Uncomment and customize if you need a navigation menu)
+# nav:
+#   - Home: '/'
+#   - Blog: '/blog/'
+#   - Projects: '/projects/'
+#   - About: '/about/'
+
