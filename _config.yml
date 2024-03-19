@@ -1,3 +1,8 @@
 title: Kevin Dejbod
 description: "Portfolio of Kevin Dejbod"
 theme: jekyll-theme-minimal
+nav:
+  - Home
+  - About
+  - Projects
+  - Contact
