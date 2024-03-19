@@ -11,7 +11,7 @@
 ## Projects
 
 ### Real-time Arrhythmia AI Detection System - 10/2023
-**Lead Engineer, CloudHolter**
+**Lead Engineer | CloudHolter**
 
 - Developed a Non-Linear Dynamical model to detect arrhythmias in ECG signals, achieving 97% accuracy in detecting 10 different arrhythmias, using a custom Computer Vision CNN model, implemented with TensorFlow, model served onto Sagemaker.
 - Designed beat detection & extraction using a custom-designed algorithm, benchmarked against the MIT-BIH database, implemented with Python into an AWS lambda.

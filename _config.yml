@@ -1,8 +1,10 @@
 title: Kevin Dejbod
 description: "Portfolio of Kevin Dejbod"
 theme: jekyll-theme-minimal
-nav:
-  - Home
-  - About
-  - Projects
-  - Contact
+author: Kevin Dejbod
+email: kevin@example.com
+social:
+  - platform: Twitter
+    username: kevindejbod
+  - platform: LinkedIn
+    username: kevindejbod
