@@ -1,6 +1,11 @@
 # Kevin Dejbod Portfolio
 ## Description
-A passionate A.I. and Biomedical Engineer with expertise in Machine Learning and Algorithm Design. Skilled ideveloping and implementing learning-based systems to solve complex problems across various biomedical domainsincluding cloud-based ECG inference and medical image registration. Committed to creating impactful solutions thatdrive positive change.
+
+
+## Home
+
+## about
+
 
 
 ## Projects
@@ -27,6 +32,15 @@ A passionate A.I. and Biomedical Engineer with expertise in Machine Learning and
 - Constructed Gait-Force frequency Algorithm Development using non-linear differential equation modeling, implemented with Python.
 - Engaged in signal engineering & sensor design. Focused on high bandwidth data optimization. Developed a biosensor area monitoring system.
 - Led the clinical prototype Development, including the regulatory & patent application process.
+
+
+
+## Tutorials
+
+### Train on mac, upload to AWS Sagemaker - 10/2023
+**AWS Sagemaker, Python, MacOS**
+
+
 
 
 
