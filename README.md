@@ -2,20 +2,12 @@
 ## Description
 
 
-## Home
-
-## about
 
 
 
 ## Projects
-
-| Project Name | Date | Description |
-|--------------|------|-------------|
-| Project 1    | 10/2023 | Real-time Arrhythmia AI Detection System |
-| Project 2    | 11/2023 | Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration |
-| Project 3    | 08/2022 | Assistive Smart Orthopedic Sensor Device (SMART BOOT) |
-
+### Dynamic-ECG: Algoritms for ECG Signal Analysis - 09/2023
+**Lead Engineer | Dynamic-ECG**
 
 ### Real-time Arrhythmia AI Detection System - 10/2023
 **Lead Engineer | CloudHolter**
@@ -50,10 +42,16 @@
 ### Train on mac, upload to AWS Sagemaker - 10/2023
 **AWS Sagemaker, Python, MacOS**
 
+### Lambda Invoke Sagemaker
 
 
+### R wave detection
+**ECG, Python, NumPy**
 
 
+### Phasor Transform
+
+### Poincare plot
 
 
 
