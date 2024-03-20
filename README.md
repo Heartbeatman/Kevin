@@ -10,8 +10,18 @@
 
 ## Projects
 
+| Project Name | Date | Description |
+|--------------|------|-------------|
+| Project 1    | 10/2023 | Real-time Arrhythmia AI Detection System |
+| Project 2    | 11/2023 | Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration |
+| Project 3    | 08/2022 | Assistive Smart Orthopedic Sensor Device (SMART BOOT) |
+
+
 ### Real-time Arrhythmia AI Detection System - 10/2023
 **Lead Engineer | CloudHolter**
+
+- Goal: To develop a real-time arrhythmia detection system using ECG signals, to be used in a wearable device.
+- Dataset: 30,000 ECG signals
 
 - Developed a Non-Linear Dynamical model to detect arrhythmias in ECG signals, achieving 97% accuracy in detecting 10 different arrhythmias, using a custom Computer Vision CNN model, implemented with TensorFlow, model served onto Sagemaker.
 - Designed beat detection & extraction using a custom-designed algorithm, benchmarked against the MIT-BIH database, implemented with Python into an AWS lambda.
