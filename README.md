@@ -1,34 +1,30 @@
 # Kevin Dejbod Portfolio
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kevin-dejbod)
+
 ## Description
 
 
-## Education
-### Master of Professional Engineering (Biomedical Engineering) - 2023
-**University of Western Australia, Perth, Australia**
-
-### Bachelor of Science (Applied Mathematics & Engineerin) - 2021
-**University of Western Australia, Perth, Australia**
 
 
-
-
-
-## Projects
-### Dynamic-ECG: Algoritms for ECG Signal Analysis - 09/2023
-**Lead Engineer | Dynamic-ECG**
-
+## Proffesional Projects
 ### Real-time Arrhythmia AI Detection System - 10/2023
 **Lead Engineer | CloudHolter**
 
 
 
-- Goal: To develop a real-time arrhythmia detection system using ECG signals, to be used in a wearable device.
-- Dataset: 30,000 ECG signals
 
-- Developed a Non-Linear Dynamical model to detect arrhythmias in ECG signals, achieving 97% accuracy in detecting 10 different arrhythmias, using a custom Computer Vision CNN model, implemented with TensorFlow, model served onto Sagemaker.
-- Designed beat detection & extraction using a custom-designed algorithm, benchmarked against the MIT-BIH database, implemented with Python into an AWS lambda.
-- Implemented full inference pipeline using AWS Sagemaker, lambda, and API Gateway, achieving real-time user ML inference.
-- Constructed s3 dataset for training and validation, with a custom data pipeline for data augmentation and labeling, using AWS Sagemaker and Textract of EMRs.
+## Open Source Projects
+### Dynamic-ECG: Algoritms for ECG Signal Analysis - 09/2023
+**Lead Engineer | Dynamic-ECG** \
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Heartbeatman/dynamic_ecg) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+## AF
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
 
 ### Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration - 11/2023
 **Engineering Masters Thesis | University of Western Australia & [Liryc, de Bordeaux, France](https://www.ihu-liryc.fr/en/)**
@@ -44,6 +40,7 @@
 - Constructed Gait-Force frequency Algorithm Development using non-linear differential equation modeling, implemented with Python.
 - Engaged in signal engineering & sensor design. Focused on high bandwidth data optimization. Developed a biosensor area monitoring system.
 - Led the clinical prototype Development, including the regulatory & patent application process.
+
 
 
 
