@@ -2,6 +2,14 @@
 ## Description
 
 
+## Education
+### Master of Professional Engineering (Biomedical Engineering) - 2023
+**University of Western Australia, Perth, Australia**
+
+### Bachelor of Science (Applied Mathematics & Engineerin) - 2021
+**University of Western Australia, Perth, Australia**
+
+
 
 
 
