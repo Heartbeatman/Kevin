@@ -20,6 +20,8 @@
 ### Real-time Arrhythmia AI Detection System - 10/2023
 **Lead Engineer | CloudHolter**
 
+
+
 - Goal: To develop a real-time arrhythmia detection system using ECG signals, to be used in a wearable device.
 - Dataset: 30,000 ECG signals
 
@@ -29,7 +31,7 @@
 - Constructed s3 dataset for training and validation, with a custom data pipeline for data augmentation and labeling, using AWS Sagemaker and Textract of EMRs.
 
 ### Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration - 11/2023
-**UWA, Engineering Masters Thesis & [Liryc, de Bordeaux, France](https://www.ihu-liryc.fr/en/)**
+**Engineering Masters Thesis | University of Western Australia & [Liryc, de Bordeaux, France](https://www.ihu-liryc.fr/en/)**
 
 - Developed a deep reinforcement learning model using PyTorch to register 6DOF cardiac CT images with fluoroscopy images.
 - Registration of 3D CT images with 2D fluoroscopy images, using a custom-designed algorithm, implemented with Python and PyTorch.
