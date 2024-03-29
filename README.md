@@ -2,6 +2,11 @@
 
 ## Description
 
+
+
+[Research Projects](research.md)
+
+
 ## Section 1
 ## Proffesional Projects
 ### Real-time Arrhythmia AI Detection System - 10/2023
