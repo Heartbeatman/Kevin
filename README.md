@@ -1,7 +1,3 @@
-<div style="background-color: #1e1e1e; color: #d4d4d4; padding: 10px;">
-
-
-
 # Design Portfolio
 ## Table of Contents
 - ### [Professional Experience](Professional.md)
