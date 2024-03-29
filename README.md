@@ -3,9 +3,6 @@
 
 ## Description
 
-
-
-
 ## Proffesional Projects
 ### Real-time Arrhythmia AI Detection System - 10/2023
 **Lead Engineer | CloudHolter**
@@ -37,9 +34,13 @@
 ### Assistive Smart Orthopedic Sensor Device, (SMART BOOT) - 08/2022
 **Medical device Design Project with [BioDesign (UWA)](https://www.perthbiodesign.au)**
 
+
+![alt text](assets/images/pls.png)
+
+
 - Constructed Gait-Force frequency Algorithm Development using non-linear differential equation modeling, implemented with Python.
 - Engaged in signal engineering & sensor design. Focused on high bandwidth data optimization. Developed a biosensor area monitoring system.
-- Led the clinical prototype Development, including the regulatory & patent application process.
+- CoLed the clinical prototype Development, including the regulatory & patent application process.
 
 
 
