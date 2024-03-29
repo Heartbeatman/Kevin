@@ -27,7 +27,10 @@ An AF detection model that uses Dynamic-ECG for Poincare-Plot generation as the 
 
 
 ### Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
+Implemented a deep reinforcement learning model using PyTorch and deep Q network to register 6DOF cardiac CT images with fluoroscopy images. Achieved a 90% success rate in image registration, improving the accuracy of cardiac procedures. Collaborated with CHU de Bordeaux, France, and the UWA Medical Imaging Physics Group, using CARTO EP files.
 
 ### Real-time Arrhythmia Sagemaker 
 
