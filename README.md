@@ -1,10 +1,6 @@
-<style>
-    /* Add CSS style to make the background dark */
-    code {
-        background-color: #1E1E1E;
-        color: #FFFFFF;
-    }
-</style>
+<div style="background-color: #1e1e1e; color: #d4d4d4; padding: 10px;">
+
+
 
 # Design Portfolio
 ## Table of Contents
