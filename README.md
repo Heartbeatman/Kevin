@@ -1,45 +1,40 @@
 # Design Portfolio
 ## Table of Contents
-- ### [Professional Projects](#section-1)
-  - [Real-time Arrhythmia AI Detection System - 10/2023](#real-time-arrhythmia-ai-detection-system---102023)
-[Research Projects](research.md)
+- ### [Professional Experience](professional.md)
+- ### [Research Experience](research.md)
+- ### [Open Source Projects](opensource.md)
+- ### [Tutorials](Tutorials.md)
 
 
-## Section 1
-## Proffesional Projects
-### Real-time Arrhythmia AI Detection System - 10/2023
-**Lead Engineer | CloudHolter**
 
 
-| Project Name | Role | Organization |
-|--------------|------|--------------|
-| Real-time Arrhythmia AI Detection System - 10/2023 | Lead Engineer | CloudHolter |
-| Dynamic-ECG: Algoritms for ECG Signal Analysis - 09/2023 | Lead Engineer | Dynamic-ECG |
-| Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration - 11/2023 | Engineering Masters Thesis | University of Western Australia & [Liryc, de Bordeaux, France](https://www.ihu-liryc.fr/en/) |
-| Assistive Smart Orthopedic Sensor Device, (SMART BOOT) - 08/2022 | Medical device Design Project | [BioDesign (UWA)](https://www.perthbiodesign.au) |
+
+## Projects
+### [Dynamic-ECG](opensource.md#dynamic-ecg/Dynamic-ECG): Algorithms for ECG Signal Analysis 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Heartbeatman/dynamic_ecg)   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+My Python-based library for ECG analysis, including R,P,T wave detection, Poincare analysis, wavelets based analysis and several Visualisation features! Portability with both short ECG & Long Form Holter data. Formats such as NumPy, EDF, H5 and even Apple Watch ECG data (CSV export).
 
 
-## Open Source Projects
-### Dynamic-ECG: Algoritms for ECG Signal Analysis - 09/2023
-**Lead Engineer | Dynamic-ECG** \
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Heartbeatman/dynamic_ecg)   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-### AF
+
+
+### [CatchAF](opensource.md#CatchAF/CatchAF): Multi-Modal Atrial Fibrillation Detection Model
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
+An AF detection model that uses Dynamic-ECG for Poincare-Plot generation as the data input for a Computer Vision model. Trained on the [IRIDIA-AF](https://www.nature.com/articles/s41597-023-02621-1) dataset, the model achieved a 98% accuracy in detecting AF from ECG data. The model is available for download and use in the CatchAF repository.
 
 
-## Research Projects
-### Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration - 11/2023
-**Engineering Masters Thesis | University of Western Australia & [Liryc, de Bordeaux, France](https://www.ihu-liryc.fr/en/)**
+### Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration
 
-- Developed a deep reinforcement learning model using PyTorch to register 6DOF cardiac CT images with fluoroscopy images.
-- Registration of 3D CT images with 2D fluoroscopy images, using a custom-designed algorithm, implemented with Python and PyTorch.
-- Acquired 90% success rate in registering images, improving the accuracy of cardiac procedures.
-- Collaborated with CHU de Bordeaux, France, and the UWA Medical Imaging Physics Group, using CARTO EP files.
+
+### Real-time Arrhythmia Sagemaker 
+
+
 
 ### Assistive Smart Orthopedic Sensor Device, (SMART BOOT) - 08/2022
-**Medical device Design Project with [BioDesign (UWA)](https://www.perthbiodesign.au)**
+**Medical Device Design Project with [BioDesign (UWA)](https://www.perthbiodesign.au)**
 
 
 ![alt text](assets/images/pls.png)
