@@ -7,10 +7,8 @@
 
 
 
-
-
 ## Projects
-### [Dynamic-ECG](opensource.md#dynamic-ecg/Dynamic-ECG): Algorithms for ECG Signal Analysis 
+### [Dynamic-ECG](opensource.md#dynamic-ecg/Dynamic-ECG) : Algorithms for ECG Signal Analysis 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Heartbeatman/dynamic_ecg)   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 My Python-based library for ECG analysis, including R,P,T wave detection, Poincare analysis, wavelets-based analysis and several Visualisation features! Portability with both short ECG & Long Form Holter data. Formats such as NumPy, EDF, H5 and even Apple Watch ECG data (CSV export).
@@ -61,7 +59,7 @@ Constructed Gait-Force frequency Algorithm Development using non-linear differen
 
 ## Tutorials
 
-### Train on mac, upload to AWS Sagemaker - 10/2023
+### Train on MAC, upload to AWS Sagemaker - 10/2023
 **AWS Sagemaker, Python, MacOS**
 
 ### BioSignals 
