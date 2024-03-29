@@ -8,6 +8,12 @@
 **Lead Engineer | CloudHolter**
 
 
+| Project Name | Role | Organization |
+|--------------|------|--------------|
+| Real-time Arrhythmia AI Detection System - 10/2023 | Lead Engineer | CloudHolter |
+| Dynamic-ECG: Algoritms for ECG Signal Analysis - 09/2023 | Lead Engineer | Dynamic-ECG |
+| Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration - 11/2023 | Engineering Masters Thesis | University of Western Australia & [Liryc, de Bordeaux, France](https://www.ihu-liryc.fr/en/) |
+| Assistive Smart Orthopedic Sensor Device, (SMART BOOT) - 08/2022 | Medical device Design Project | [BioDesign (UWA)](https://www.perthbiodesign.au) |
 
 
 ## Open Source Projects
