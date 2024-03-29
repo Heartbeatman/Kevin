@@ -1,8 +1,8 @@
 # Kevin Dejbod Portfolio
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kevin-dejbod)
 
 ## Description
 
+## Section 1
 ## Proffesional Projects
 ### Real-time Arrhythmia AI Detection System - 10/2023
 **Lead Engineer | CloudHolter**
