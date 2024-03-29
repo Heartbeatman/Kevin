@@ -1,9 +1,7 @@
-# Kevin Dejbod Portfolio
-
-## Description
-
-
-
+# Design Portfolio
+## Table of Contents
+- ### [Professional Projects](#section-1)
+  - [Real-time Arrhythmia AI Detection System - 10/2023](#real-time-arrhythmia-ai-detection-system---102023)
 [Research Projects](research.md)
 
 
