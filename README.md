@@ -1,6 +1,6 @@
 # Design Portfolio
 ## Table of Contents
-- ### [Professional Experience](professional.md)
+- ### [Professional Experience](Professional.md)
 - ### [Research Experience](research.md)
 - ### [Open Source Projects](opensource.md)
 - ### [Tutorials](Tutorials.md)
@@ -20,14 +20,13 @@ My Python-based library for ECG analysis, including R,P,T wave detection, Poinca
 
 
 
-
 ### [CatchAF](opensource.md#CatchAF/CatchAF): Multi-Modal Atrial Fibrillation Detection Model
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 An AF detection model that uses Dynamic-ECG for Poincare-Plot generation as the data input for a Computer Vision model. Trained on the [IRIDIA-AF](https://www.nature.com/articles/s41597-023-02621-1) dataset, the model achieved a 98% accuracy in detecting AF from ECG data. The model is available for download and use in the CatchAF repository.
 
-![alt text](assets/images/histogram_animation.gif){: style="width: 300px; height: 200px;"}
+![alt text](assets/images/histogram_animation.gif)
 
 
 
