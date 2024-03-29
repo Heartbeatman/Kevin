@@ -1,3 +1,11 @@
+<style>
+    /* Add CSS style to make the background dark */
+    code {
+        background-color: #1E1E1E;
+        color: #FFFFFF;
+    }
+</style>
+
 # Design Portfolio
 ## Table of Contents
 - ### [Professional Experience](Professional.md)
