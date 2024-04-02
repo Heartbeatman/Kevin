@@ -18,9 +18,7 @@ body {
 </style>
 
 # Design Portfolio
-
-
- https://heartbeatman.github.io/Kevin/
+These are my staple projects that I show! I have tutorials, research, professional projects and open source projects (click on sidebar). For each project if you click on the title you will be taken to the project page with more details.
 
 ## Projects
 ### [Dynamic-ECG](opensource.md#dynamic-ecg/Dynamic-ECG) : Algorithms for ECG Signal Analysis 
@@ -69,21 +67,14 @@ Constructed Gait-Force frequency Algorithm Development using non-linear differen
 
 
 
+## Workshops
+
+### BioSignals Workshop
+
+
 ## Tutorials
 
-### Train on MAC, upload to AWS Sagemaker - 10/2023
-**AWS Sagemaker, Python, MacOS**
-
-### BioSignals 
-
-
-### R wave detection
-**ECG, Python, NumPy**
-
-
-### Phasor Transform
-
-### Poincare plot
+### ECG Peak Detection
 
 
 
