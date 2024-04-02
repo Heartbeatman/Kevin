@@ -1,3 +1,20 @@
+<style>
+h1 {
+    color: #c9d1d9;
+}
+h2 {
+    color: #c9d1d9;
+}
+h3 {
+    color: #c9d1d9;
+}
+body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+}
+</style>
+
+
 ## Research Projects 
 ### Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration - 11/2023
 
