@@ -1,4 +1,10 @@
 <style>
+h1 {
+    color: #white;
+}
+h2 {
+    color: #white;
+}
 body {
     background-color: #0d1117;
     color: #c9d1d9;
