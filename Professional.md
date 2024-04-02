@@ -8,6 +8,11 @@ h2 {
 h3 {
     color: #c9d1d9;
 }
+
+h4 {
+    color: #c9d1d9;
+}
+
 body {
     background-color: #0d1117;
     color: #c9d1d9;
@@ -15,6 +20,6 @@ body {
 </style>
 
 
-# Proffesional Projects
+# Proffesional Experience
 ## Real-time Arrhythmia AI Detection System
-**Lead Engineer | CloudHolter**
+** Lead Engineer | CloudHolter**

@@ -15,7 +15,7 @@ body {
 </style>
 
 
-## Research Projects 
+# Research & Education
 ### Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration - 11/2023
 
 **Engineering Master Thesis | University of Western Australia & [Liryc, de Bordeaux, France](https://www.ihu-liryc.fr/en/)**
