@@ -28,7 +28,7 @@ body {
 
 My Python-based library for ECG analysis, including R,P,T wave detection, Poincare analysis, wavelets-based analysis and several Visualisation features! Portability with both short ECG & Long Form Holter data. Formats such as NumPy, EDF, H5 and even Apple Watch ECG data (CSV export).
 
-
+![alt text](image-2.png)
 ![alt text](assets/images/sample_r_plot.png)
 
 
@@ -60,8 +60,6 @@ Developed a real-time arrhythmia detection system using AWS Sagemaker and Lambda
 
 
 
-
-
 ###  [SMART BOOT](research.md#smart-boot): Assistive Smart Orthopedic Sensor Device
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 
@@ -71,15 +69,12 @@ Constructed Gait-Force frequency Algorithm Development using non-linear differen
 
 
 
-
 ## Tutorials
 
 ### Train on MAC, upload to AWS Sagemaker - 10/2023
 **AWS Sagemaker, Python, MacOS**
 
 ### BioSignals 
-
-
 
 
 ### R wave detection
