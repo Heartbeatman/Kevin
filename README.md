@@ -28,7 +28,7 @@ body {
 
 My Python-based library for ECG analysis, including R,P,T wave detection, Poincare analysis, wavelets-based analysis and several Visualisation features! Portability with both short ECG & Long Form Holter data. Formats such as NumPy, EDF, H5 and even Apple Watch ECG data (CSV export).
 
-![alt text](image-2.png)
+![alt text](assets/images/image-2.png)
 ![alt text](assets/images/sample_r_plot.png)
 
 
