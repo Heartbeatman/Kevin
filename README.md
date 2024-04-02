@@ -15,13 +15,6 @@ body {
 </style>
 
 # Design Portfolio
-## Table of Contents
-- ### [Professional Experience](Professional.md)
-- ### [Research Experience](research.md)
-- ### [Open Source Projects](opensource.md)
-- ### [Tutorials](Tutorials.md)
-
-
 
 
  https://heartbeatman.github.io/Kevin/
