@@ -1,9 +1,9 @@
 <style>
 h1 {
-    color: #white;
+    color: #c9d1d9;
 }
 h2 {
-    color: #white;
+    color: #c9d1d9;
 }
 body {
     background-color: #0d1117;
