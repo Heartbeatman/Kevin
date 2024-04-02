@@ -1,9 +1,17 @@
+<style>
+body {
+    background-color: #0d1117;
+    color: #c9d1d9;
+}
+</style>
+
 # Design Portfolio
 ## Table of Contents
 - ### [Professional Experience](Professional.md)
 - ### [Research Experience](research.md)
 - ### [Open Source Projects](opensource.md)
 - ### [Tutorials](Tutorials.md)
+
 
 
 
