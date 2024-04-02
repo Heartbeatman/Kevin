@@ -16,7 +16,7 @@ body {
 
 
 # Research & Education
-### Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration - 11/2023
+## Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration - 11/2023
 
 **Engineering Master Thesis | University of Western Australia & [Liryc, de Bordeaux, France](https://www.ihu-liryc.fr/en/)**
 
@@ -29,7 +29,8 @@ body {
 
 
 
-### Assistive Smart Orthopedic Sensor Device, (SMART BOOT) - 08/2022
+## SMART BOOT
+### Assistive Smart Orthopedic Sensor Device - 08/2022
 **Medical Device Design Project with [BioDesign (UWA)](https://www.perthbiodesign.au)**
 
 

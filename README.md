@@ -43,7 +43,7 @@ An AF detection model that uses Dynamic-ECG for Poincare-Plot generation as the 
 
 
 
-### Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration
+### [Reinforce-CCA-Register](research.md#deep-reinforcement-learning-for-cardiac-ct-fluoroscopy-registration---112023): Deep Reinforcement Learning for Cardiac CT-Fluoroscopy Registration
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
@@ -53,7 +53,7 @@ Implemented a deep reinforcement learning model using PyTorch and deep Q network
 
 
 
-### Real-time Arrhythmia Sagemaker Detection System
+### [ML-Urgency System](Professional.md#real-time-arrhythmia-ai-detection-system): Real-time Arrhythmia Sagemaker Detection System
 ![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=flat) ![AWS Sagemaker Badge](https://img.shields.io/badge/AWS%20Sagemaker-232F3E?logo=awssagemaker&logoColor=fff&style=flat) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 Developed a real-time arrhythmia detection system using AWS Sagemaker and Lambda. The system uses a deep learning model trained on the MIT-BIH dataset to detect arrhythmias in ECG data. The model is deployed on AWS Sagemaker and invoked using AWS Lambda functions. The system achieved an accuracy of 98% in detecting arrhythmias in real-time ECG data.
@@ -62,7 +62,7 @@ Developed a real-time arrhythmia detection system using AWS Sagemaker and Lambda
 
 
 
-### Assistive Smart Orthopedic Sensor Device - SMART BOOT
+###  [SMART BOOT](research.md#smart-boot): Assistive Smart Orthopedic Sensor Device
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 
 ![alt text](assets/images/pls.png)
